@@ -1,0 +1,6 @@
+E:\UTC_LAB_5\UTC_LAB_5\obj\Debug\net6.0-windows\UTC_LAB_5.Form1.resources
+E:\UTC_LAB_5\UTC_LAB_5\obj\Debug\net6.0-windows\UTC_LAB_5.csproj.GenerateResource.cache
+E:\UTC_LAB_5\UTC_LAB_5\obj\Debug\net6.0-windows\UTC_LAB_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTC_LAB_5\UTC_LAB_5\obj\Debug\net6.0-windows\UTC_LAB_5.AssemblyInfoInputs.cache
+E:\UTC_LAB_5\UTC_LAB_5\obj\Debug\net6.0-windows\UTC_LAB_5.AssemblyInfo.cs
+E:\UTC_LAB_5\UTC_LAB_5\obj\Debug\net6.0-windows\UTC_LAB_5.csproj.CoreCompileInputs.cache
